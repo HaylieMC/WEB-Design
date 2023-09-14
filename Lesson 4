@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lesson04</title>
+    <link rel="stylesheet" href="system.css">
+    <style>
+
+      body {
+  background-image: url(annie-spratt-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  background-position: center;
+    }
+
+  </style>
+
+  </head>
+  <body>
+    <main>
+      <!-- ***********************  ABOUT / PROFILE  *********************** -->
+      <header>
+        <h1 style="background-color: antiquewhite;">Haylie Morales Carrasquillo</h1>
+        <h2 style="border: 2px solid black;">Shift Manager</h2>
+        <p>I am a Shift Manager at a casual restaurant known as Noodles and Company. At age 18, I started working at Noodles and Company. Most kids who are still in high school desire to work, but I was reluctant to do so because I believed it would distract me from my studies. 
+          After working at the restaurant for three months, I was offered the shift management position, which I accepted, because I saw it as an excellent opportunity to develop my leadership skills.</p>
+      </header>
+
+      <!-- ********************  PROJECTS / PORTFOLIO  ********************* -->
+      <section>
+        <h2 style="border: 2px solid black;">Featured Projects</h2>
+
+        <!-- Copy the whole <section> block to add more projects. -->
+        <section>
+          <h3>Body Systems Project</h3>
+          <img src="Body Systems picture.png" alt="A website about the ultimate weight machine made in WEB 140" style="width: 400px;height:250px;">
+          <p>This is one of my favorite websites made in my first WEB design class. I liked how simple and clean it came out.</p>
+        </section>
+        <!-- End of Project block. -->
+      </section>
+
+      <!-- ***********************  WORK EXPERIENCE  *********************** -->
+      <section>
+        <h2 style="border: 2px solid black;">Work Experience</h2>
+        <p>I've only ever had one job, but I've gained many skills and work experience over the course.</p>
+
+        <!-- Copy this whole <section> block to add more jobs. -->
+        <section>
+          <h3>Shift Manager</h3>
+          <p>Noodles and Company</p>
+          <p>03/12/22</p>
+          <p>Noodles and Company is a great first job to launch one's career, in my opinion. Along the journey, I've come across so many incredible folks from various backgrounds.</p>
+        </section>
+        <!-- End of Job block. -->
+      </section>
+
+      <!-- ******************  EDUCATION & CERTIFICATIONS ****************** -->
+      <section>
+        <h2 style="border: 2px solid black;">Education</h2>
+
+        <!-- Copy this whole <section> block to add more schools. -->
+        <section>
+          <h3>Wake Technical Community College - Raleigh</h3>
+          <p>Graphic Design Advertising, 2022</p>
+          <p>Highschool Graduate; Class of 2022</p>
+        </section>
+        <!-- End of School block. -->
+      </section>
+
+      <!-- *****************  CONTACT INFO / SOCIAL MEDIA  ***************** -->
+      <footer>
+        <h2>Let's Keep in Touch!</h2>
+
+        <!-- Social media and contact links. Add or remove any networks. -->
+        <ul>
+          <a href="Hamoralescarrasquillo@my.waketech.edu">Email</a></li>
+          <a href="#" target="https://www.linkedin.com/in/haylie-morales-carrasquillo-85970a261/">LinkedIn</a></li>
+          <a href="https://www.instagram.com/iwant.ham/">Instagram</a></li>
+        </ul>
+      </footer>
+    </main>
+  </body>
+</html>
